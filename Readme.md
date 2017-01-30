@@ -1,18 +1,6 @@
 % CSC 211 Lab 1: Fixing a program
 % Spring 2017
 
-- log into lab machines
-- set up docker command if you didn't already
-- run docker
-- download code with git
-- try to compile it
-- run it with a certain input
-- run it with a different input
-- run it under valgrind
-- look for the error message
-- fix the bug
-- git commit
-
 #About this lab
 
 In this lab, you will explore several tools that you will use throughout the semester. You will download a program written by your instructor, identify a bug in it, and fix that bug.
